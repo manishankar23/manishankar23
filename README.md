@@ -58,7 +58,7 @@ Passionate about AI, Data Science, and Software Development. I enjoy working on 
 ## 💼 Connect with Me  
 
 - *GitHub:* [manishankar23](https://github.com/manishankar23)  
-- *LinkedIn:* [Dharani](https://www.linkedin.com/in/mani-shankar-s-078483259/)  
+- *LinkedIn:* [MANI SHANKARR S](https://www.linkedin.com/in/mani-shankar-s-078483259/)  
 - *Email:* manishankar232005@gmail.com  
 
 Let's innovate and build something great! 🚀
