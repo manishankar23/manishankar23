@@ -21,8 +21,8 @@ Passionate about AI, Data Science, and Software Development. I enjoy working on 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-S93&layout=compact&theme=radical&hide_border=true)  
 
 ### LeetCode Stats  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/727622BAD079/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/727622BAD079?theme=dark&font=Roboto&solved=126)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/manishankar23/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/manishankar23?theme=dark&font=Roboto&solved=126)  
 
 ---  
 ## 🛠 Languages and Tools  
